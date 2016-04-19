@@ -10,4 +10,3 @@ my_names = {"Joe", "Bob", "Ned"}
 print my_names[0]
 print my_names[2]
 print my_names[3]
-###test
